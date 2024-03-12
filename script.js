@@ -18,10 +18,10 @@ function diceGame() {
 	// Compares two random dice values and updates the HTML content to declare the winner, indicate a draw, or display an error message along with a prompt to play again.
 
 	if (randomDice > randomDice2) {
-		document.querySelector("h1").innerHTML = " &#128681; Player 1 Win !";
+		document.querySelector("h1").innerHTML = " &#128681; Thabang Won !";
 	}
 	else if (randomDice < randomDice2) {
-		document.querySelector("h1").innerHTML = "Player 2 Win ! &#128681; ";
+		document.querySelector("h1").innerHTML = "Chiamaka Won ! &#128681; ";
 	}
 	else if (randomDice = randomDice2) {
 		document.querySelector("h1").innerHTML = "&#128681; Draw! &#128681;";
