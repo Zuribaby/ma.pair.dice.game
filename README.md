@@ -1,3 +1,4 @@
+Deploy link: https://zuribaby.github.io/ma.pair.dice.game/
 Group Capstone Project: Re-Creating a Dice Game
 The goal of this project is to create a browser-based dice game that improves upon an existing design. You are encouraged to explore this Dice Game for inspiration and come up with ways to enhance its functionality, interactivity, and user experience.
 
